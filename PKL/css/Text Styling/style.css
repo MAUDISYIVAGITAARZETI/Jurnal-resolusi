@@ -1,0 +1,17 @@
+/* belajar mengenai text styling */
+
+h1 {
+	font-size: 100px
+	color: #123123;
+	text-transform: capitalize;
+}
+
+p {
+	text-align: center;
+	word-spacing: 2px;
+	font-size: 20px
+}
+
+a {
+	text-decoration: underline;
+}
